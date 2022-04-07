@@ -5,7 +5,7 @@
     },
     "miniprogramRoot": "miniprogram/",
     "compileType": "miniprogram",
-    "projectname": "WechatProgram",
+    "projectname": "YXFWechatProgram",
     "setting": {
         "urlCheck": true,
         "es6": true,
